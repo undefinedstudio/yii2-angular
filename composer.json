@@ -1,0 +1,28 @@
+{
+  "name": "undefinedstudio/yii2-angular",
+  "type": "yii2-extension",
+  "description": "Yii2 Angular Assets",
+  "authors": [
+    {
+      "name": "Gabriele Della Casa Venturelli",
+      "email": "hardsetting@gmail.com",
+      "homepage": "http://twistedmirrorgames.com"
+    },
+    {
+      "name": "Luca Gatti",
+      "email": "luca.horn@gmail.com",
+      "homepage": "http://twistedmirrorgames.com"
+    }
+  ],
+  "keywords": ["yii2", "angular", "angularjs"],
+  "homepage": "https://github.com/undefinedstudio/yii2-angular",
+  "license": "MIT",
+  "require": {
+    "yiisoft/yii2": "*"
+  },
+  "autoload": {
+    "psr-0": {
+      "undefinedstudio\\yii2\\angular\\": "/"
+    }
+  }
+}
