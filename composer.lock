@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "18d4a7db89c4bbf0c374c09d07f036f7",
+    "hash": "6263499518b2db9e96f86af91e1035ee",
     "packages": [
         {
             "name": "bower-asset/angular",
