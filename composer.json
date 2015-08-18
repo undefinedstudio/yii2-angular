@@ -22,7 +22,7 @@
     "bower-asset/angular": "1.4.*",
     "bower-asset/angular-animate": "1.4.*",
     "bower-asset/angular-aria": "1.4.*",
-    "bower-asset/angular-material": "1.4.*",
+    "bower-asset/angular-material": "0.*",
     "bower-asset/angular-mocks": "1.4.*",
     "bower-asset/angular-resource": "1.4.*",
     "bower-asset/angular-route": "1.4.*"
