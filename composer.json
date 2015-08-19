@@ -35,7 +35,7 @@
   },
   "autoload": {
     "psr-4": {
-      "undefinedstudio\\yii2\\angular\\": "/"
+      "undefinedstudio\\yii2\\angular\\": ""
     }
   }
 }
