@@ -2,6 +2,7 @@
   "name": "undefinedstudio/yii2-angular",
   "type": "yii2-extension",
   "description": "Yii2 Angular Assets",
+  "version": "0.1.0",
   "authors": [
     {
       "name": "Gabriele Della Casa Venturelli",
