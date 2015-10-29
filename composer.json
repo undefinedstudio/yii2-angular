@@ -31,5 +31,10 @@
     "psr-4": {
       "undefinedstudio\\yii2\\angular\\": ""
     }
+  },
+  "suggest": {
+    "bower-asset/angular": "Main dependency for AngularJS.",
+    "bower-asset/angular-resource": "Shortaround for establishing REST resources.",
+    "bower-asset/angular-route": "Enables routing inside the AngularJS application."
   }
 }
