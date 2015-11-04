@@ -8,7 +8,7 @@ class AngularAriaAsset extends AssetBundle
 {
     public $sourcePath = '@vendor/bower/angular-aria';
     public $js = [
-        'angular-aria.min.js',
+        'angular-aria.js',
     ];
 
     public $depends = [

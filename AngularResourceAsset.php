@@ -8,7 +8,7 @@ class AngularResourceAsset extends AssetBundle
 {
     public $sourcePath = '@vendor/bower/angular-resource';
     public $js = [
-        'angular-resource.min.js',
+        'angular-resource.js',
     ];
 
     public $depends = [

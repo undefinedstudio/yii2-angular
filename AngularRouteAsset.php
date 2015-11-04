@@ -8,7 +8,7 @@ class AngularRouteAsset extends AssetBundle
 {
     public $sourcePath = '@vendor/bower/angular-route';
     public $js = [
-        'angular-route.min.js',
+        'angular-route.js',
     ];
 
     public $depends = [

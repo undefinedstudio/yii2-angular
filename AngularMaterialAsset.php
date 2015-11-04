@@ -8,10 +8,10 @@ class AngularMaterialAsset extends AssetBundle
 {
     public $sourcePath = '@vendor/bower/angular-material';
     public $js = [
-        'angular-material.min.js'
+        'angular-material.js'
     ];
     public $css = [
-        'angular-material.min.css',
+        'angular-material.css',
         'https://fonts.googleapis.com/icon?family=Material+Icons'
     ];
 
