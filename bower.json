@@ -24,7 +24,8 @@
     "angular-messages": "master",
     "angular-mocks": "master",
     "angular-resource": "master",
-    "angular-route": "master"
+    "angular-route": "master",
+    "angular-sanitize": "master"
   },
   "resolutions": {
     "angular": "master",
