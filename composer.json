@@ -2,7 +2,7 @@
   "name": "undefinedstudio/yii2-angular",
   "type": "yii2-extension",
   "description": "Yii2 Angular Assets",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "authors": [
     {
       "name": "Gabriele Della Casa Venturelli",
@@ -27,6 +27,12 @@
       "bower-asset-library": "vendor/bower"
     }
   },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://asset-packagist.org"
+    }
+  ],
   "autoload": {
     "psr-4": {
       "undefinedstudio\\yii2\\angular\\": ""
