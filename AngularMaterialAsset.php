@@ -6,7 +6,7 @@ use yii\web\AssetBundle;
 
 class AngularMaterialAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/bower/angular-material';
+    public $sourcePath = '@bower/angular-material';
     public $js = [
         'angular-material.js'
     ];

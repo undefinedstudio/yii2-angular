@@ -6,7 +6,7 @@ use yii\web\AssetBundle;
 
 class AngularResourceAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/bower/angular-resource';
+    public $sourcePath = '@bower/angular-resource';
     public $js = [
         'angular-resource.js',
     ];

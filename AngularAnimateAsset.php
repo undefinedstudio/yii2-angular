@@ -6,7 +6,7 @@ use yii\web\AssetBundle;
 
 class AngularAnimateAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/bower/angular-animate';
+    public $sourcePath = '@bower/angular-animate';
     public $js = [
         'angular-animate.js',
     ];

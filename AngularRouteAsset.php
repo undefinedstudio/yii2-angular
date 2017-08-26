@@ -6,7 +6,7 @@ use yii\web\AssetBundle;
 
 class AngularRouteAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/bower/angular-route';
+    public $sourcePath = '@bower/angular-route';
     public $js = [
         'angular-route.js',
     ];

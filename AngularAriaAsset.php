@@ -6,7 +6,7 @@ use yii\web\AssetBundle;
 
 class AngularAriaAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/bower/angular-aria';
+    public $sourcePath = '@bower/angular-aria';
     public $js = [
         'angular-aria.js',
     ];

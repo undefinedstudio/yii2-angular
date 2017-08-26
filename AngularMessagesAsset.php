@@ -6,7 +6,7 @@ use yii\web\AssetBundle;
 
 class AngularMessagesAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/bower/angular-messages';
+    public $sourcePath = '@bower/angular-messages';
     public $js = [
         'angular-messages.js',
     ];

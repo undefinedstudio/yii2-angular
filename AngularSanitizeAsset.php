@@ -6,7 +6,7 @@ use yii\web\AssetBundle;
 
 class AngularSanitizeAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/bower/angular-sanitize';
+    public $sourcePath = '@bower/angular-sanitize';
     public $js = [
         'angular-sanitize.js',
     ];

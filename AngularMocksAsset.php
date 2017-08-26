@@ -6,7 +6,7 @@ use yii\web\AssetBundle;
 
 class AngularMocksAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/bower/angular-mocks';
+    public $sourcePath = '@bower/angular-mocks';
     public $js = [
         'angular-mocks.js',
     ];
